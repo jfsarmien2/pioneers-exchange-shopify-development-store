@@ -29,7 +29,7 @@
           {% if article.image != blank %}
             <img
               class="w-full h-80 md:h-96 object-cover object-center"
-              src="{{ article.image.src |  image_url: width: 500  }}"
+              src="{{ article.image.src |  image_url: width: 1000  }}"
               alt="{{ article.image.alt }}" />
           {% else %}
             {% assign placeholder_image = "lifestyle-2" %}
