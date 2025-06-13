@@ -4,7 +4,7 @@
       {% if product.featured_image %}
         <div class="h-80 overflow-hidden">
           <img
-            class="w-full h-full object-cover"
+            class="w-full h-full object-cover transtion duration-1000 transform hover:scale-105"
             src="{{ product.featured_image | image_url: width: product.featured_image.width }}"
             alt="{{ product.featured_image.alt }}">
         </div>
