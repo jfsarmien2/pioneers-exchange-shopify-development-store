@@ -1,4 +1,4 @@
-# 🛍️ Pioneer Exchange Store Development Store
+# 🛍️ Pioneer Exchange Development Store
 
 A modern, fully customizable Shopify theme built using **TailwindCSS** and **Online Store 2.0** (JSON templates). Designed for performance, flexibility, and developer productivity.
 
